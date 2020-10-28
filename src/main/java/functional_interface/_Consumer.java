@@ -42,6 +42,5 @@ public class _Consumer {
             this.name = name;
             this.phoneNumber = phoneNumber;
         }
-
     }
 }

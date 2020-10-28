@@ -34,7 +34,6 @@ public class Main {
                 .collect(Collectors.toList());
 
         System.out.println(females2);
-
     }
 
     static class Person{
